@@ -1,0 +1,4 @@
+{
+  "prefix": "Cookie",
+  "permitted": ["owner", "admin"]
+}
